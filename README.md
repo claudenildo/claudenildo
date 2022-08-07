@@ -1,6 +1,8 @@
-### Hi 👋
+### Olá.. 👋
 
-- 🌱 I’m currently learning ...
+- 🌱 Atualmente estou aprendendo javascript (reactjs e nodejs).
+- 👯 Estou procurando colaborar em trabalhos voluntários nessas tecnologias javascript (frontend e backend).
+- 📫 Como chegar até mim: claudenildo12@hotmail.com, https://www.linkedin.com/in/claudenildosantos/
 
 <!--
 **claudenildo/claudenildo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
