@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋, eu sou Claudenildo</h1>
+<h1 align="center">Olá 👋, Eu sou Claudenildo</h1>
 <h3 align="center">Eu sou desenvolvedor frontend e backend.</h3>
 
 - 🔭No momento estou trabalhando **Projetos pessoais .**
