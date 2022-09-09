@@ -1,19 +1,19 @@
 <h1 align="center">Olá 👋, Eu sou Claudenildo</h1>
-<h3 align="center">Eu sou desenvolvedor frontend e backend.</h3>
+<h3 align="center">I am frontend and backend developer.</h3>
 
-- 🔭No momento estou trabalhando **Projetos pessoais .**
+- 🔭 I'm currently working ** Personal projects .**
 
-- 🌱 Atualmente estou aprendendo **Reactjs e Nodejs.**
+- 🌱 I am currently learning and improving **Javascript, SQL, Mysql, PHP, Reactjs e Nodejs.**
 
-- 👯 Procuro colaborar **em projetos voluntários.**
+- 👯 I try to collaborate in ** Volunteer projects.**
 
-- 👨‍💻 Todos os meus projetos estão disponíveis em [https://github.com/claudenildo/](https://github.com/claudenildo/)
+- 👨‍💻 All my projects are available at [https://github.com/claudenildo/](https://github.com/claudenildo/)
 
-- 💬 Pergunte-me sobre **html, css, javscript e github.**
+- 💬 Ask me about **html, css, javscript, Reactjs e Nodejs e github.**
 
-- 📫 Como chegar até mim **claudenildo12@hotmail.com.**
+- 📫 How to reach me **claudenildo12@hotmail.com.**
 
-- 📄 Conheça minhas experiências [https://www.linkedin.com/in/claudenildosantos/](https://www.linkedin.com/in/claudenildosantos/)
+- 📄 Know my experiences [https://www.linkedin.com/in/claudenildosantos/](https://www.linkedin.com/in/claudenildosantos/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
