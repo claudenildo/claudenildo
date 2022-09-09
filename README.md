@@ -1,4 +1,4 @@
-<h1 align="center"> HI 👋, I'm Claudenildo</h1>
+<h1 align="center"> Hi 👋, I'm Claudenildo</h1>
 <h3 align="center">I am frontend and backend developer.</h3>
 
 - 🔭 I'm currently working ** Personal projects .**
