@@ -3,13 +3,13 @@
 
 - 🔭 I'm currently working ** Personal projects .**
 
-- 🌱 I am currently learning and improving **javascript, SQL, mysql, PHP, reactjs e nodejs.**
+- 🌱 I am currently learning and improving **javascript, SQL, mysql, PHP, nextjs, reactjs e nodejs.**
 
 - 👯 I try to collaborate in ** Volunteer projects.**
 
 - 👨‍💻 All my projects are available at [https://github.com/claudenildo/](https://github.com/claudenildo/)
 
-- 💬 Ask me about **html, css, javscript, reactjs e nodejs, nextjs, PHP, e git e github.**
+- 💬 Ask me about **html, css, javscript, reactjs e nodejs, nextjs, git e github.**
 
 - 📫 How to reach me **claudenildo12@hotmail.com.**
 
