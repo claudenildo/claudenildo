@@ -9,7 +9,7 @@
 
 - 👨‍💻 All my projects are available at [https://github.com/claudenildo/](https://github.com/claudenildo/)
 
-- 💬 Ask me about **html, css, javscript, reactjs e nodejs e github.**
+- 💬 Ask me about **html, css, javscript, reactjs e nodejs, nextjs, PHP, e git e github.**
 
 - 📫 How to reach me **claudenildo12@hotmail.com.**
 
