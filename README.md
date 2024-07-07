@@ -1,19 +1,17 @@
 <h1 align="center"> Hi 👋, I'm Claudenildo</h1>
-<h3 align="center">I am frontend and backend developer.</h3>
+<h3 align="center">I am frontend and backend - fullstack developer.</h3>
 
 - 🔭 I'm currently working ** Personal projects .**
-
-- 🌱 I am currently learning and improving **javascript, SQL, mysql, PHP, nextjs, reactjs e nodejs.**
 
 - 👯 I try to collaborate in ** Volunteer projects.**
 
 - 👨‍💻 All my projects are available at [https://github.com/claudenildo/](https://github.com/claudenildo/)
 
-- 💬 Ask me about **html, css, javscript, reactjs e nodejs, nextjs, git e github.**
+- 💬 Ask me about **html, css, javscript, php, java, reactjs e nodejs, nestjs, nextjs, git e github.**
 
 - 📫 How to reach me **claudenildo12@hotmail.com.**
 
-- 📄 Know my experiences [https://www.linkedin.com/in/claudenildosantos/](https://www.linkedin.com/in/claudenildosantos/)
+- 📄 Know my experiences 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
