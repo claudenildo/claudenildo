@@ -7,7 +7,7 @@
 
 - 👨‍💻 All my projects are available at [https://github.com/claudenildo/](https://github.com/claudenildo/)
 
-- 💬 Ask me about **html, css, SQL, Mysql, javscript, php, java, reactjs, nodejs, nestjs, nextjs, git, github.**
+- 💬 Ask me about **HTML, CSS, SQL - Mysql, Sqlite, Postgree, ORM (prisma, sequelize), PHP, java, javascript (reactjs, nodejs, expres, nestjs, nextjs), git, github.**
 
 - 📫 How to reach me **claudenildo12@hotmail.com.**
 
