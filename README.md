@@ -1,13 +1,11 @@
 <h1 align="center"> Hi 👋, I'm Claudenildo</h1>
 <h3 align="center">I am frontend and backend - fullstack developer.</h3>
 
-- 🔭 I'm currently working ** Personal projects .**
-
-- 👯 I try to collaborate in ** Volunteer projects.**
+- 🔭 I'm currently working ** Personal projects .** 👯 
 
 - 👨‍💻 All my projects are available at [https://github.com/claudenildo/](https://github.com/claudenildo/)
 
-- 💬 Ask me about **HTML, CSS, SQL - mysql, sqlite, postgree, ORM (prisma, sequelize), PHP, java, javascript (reactjs, nodejs, expres, nestjs, nextjs), git, github.**
+- 💬 Ask me about **Java, PHP, javascript (reactjs, nodejs, expres, nestjs, nextjs), APIS, git, github, HTML, CSS, SQL - mysql, sqlite, postgree, ORM (prisma, sequelize),**
 
 - 📫 How to reach me **claudenildo12@hotmail.com.**
 
