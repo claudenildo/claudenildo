@@ -5,7 +5,7 @@
 
 - 👨‍💻 All my projects are available at [https://github.com/claudenildo/](https://github.com/claudenildo/)
 
-- 💬 Ask me about **Java, SpringBoot, PHP, javascript (reactjs, angular, nodejs, expres, nestjs, nextjs), APIS, git, github, HTML, CSS, SQL - mysql, sqlite, postgree, ORM (prisma, sequelize),**
+- 💬 Ask me about **Java, SpringBoot, PHP, javascript (reactjs, angular, nodejs, expres, nestjs, nextjs), APIS, git, github, HTML, CSS, NoSQL - MangoDB, Firestore, Firebase. SQL - mysql, sqlite, postgree, ORM (prisma, sequelize),**
 
 - 📫 How to reach me **claudenildo12@hotmail.com.**
 
